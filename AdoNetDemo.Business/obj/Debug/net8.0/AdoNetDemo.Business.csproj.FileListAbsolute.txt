@@ -1,0 +1,17 @@
+C:\Users\asli.yilmaz\source\repos\AdoNetDemo\AdoNetDemo.Business\bin\Debug\net8.0\AdoNetDemo.Business.deps.json
+C:\Users\asli.yilmaz\source\repos\AdoNetDemo\AdoNetDemo.Business\bin\Debug\net8.0\AdoNetDemo.Business.dll
+C:\Users\asli.yilmaz\source\repos\AdoNetDemo\AdoNetDemo.Business\bin\Debug\net8.0\AdoNetDemo.Business.pdb
+C:\Users\asli.yilmaz\source\repos\AdoNetDemo\AdoNetDemo.Business\bin\Debug\net8.0\AdoNetDemo.DataAccess.dll
+C:\Users\asli.yilmaz\source\repos\AdoNetDemo\AdoNetDemo.Business\bin\Debug\net8.0\AdoNetDemo.Entities.dll
+C:\Users\asli.yilmaz\source\repos\AdoNetDemo\AdoNetDemo.Business\bin\Debug\net8.0\AdoNetDemo.DataAccess.pdb
+C:\Users\asli.yilmaz\source\repos\AdoNetDemo\AdoNetDemo.Business\bin\Debug\net8.0\AdoNetDemo.Entities.pdb
+C:\Users\asli.yilmaz\source\repos\AdoNetDemo\AdoNetDemo.Business\obj\Debug\net8.0\AdoNetDemo.Business.csproj.AssemblyReference.cache
+C:\Users\asli.yilmaz\source\repos\AdoNetDemo\AdoNetDemo.Business\obj\Debug\net8.0\AdoNetDemo.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asli.yilmaz\source\repos\AdoNetDemo\AdoNetDemo.Business\obj\Debug\net8.0\AdoNetDemo.Business.AssemblyInfoInputs.cache
+C:\Users\asli.yilmaz\source\repos\AdoNetDemo\AdoNetDemo.Business\obj\Debug\net8.0\AdoNetDemo.Business.AssemblyInfo.cs
+C:\Users\asli.yilmaz\source\repos\AdoNetDemo\AdoNetDemo.Business\obj\Debug\net8.0\AdoNetDemo.Business.csproj.CoreCompileInputs.cache
+C:\Users\asli.yilmaz\source\repos\AdoNetDemo\AdoNetDemo.Business\obj\Debug\net8.0\AdoNetDe.BF29145F.Up2Date
+C:\Users\asli.yilmaz\source\repos\AdoNetDemo\AdoNetDemo.Business\obj\Debug\net8.0\AdoNetDemo.Business.dll
+C:\Users\asli.yilmaz\source\repos\AdoNetDemo\AdoNetDemo.Business\obj\Debug\net8.0\refint\AdoNetDemo.Business.dll
+C:\Users\asli.yilmaz\source\repos\AdoNetDemo\AdoNetDemo.Business\obj\Debug\net8.0\AdoNetDemo.Business.pdb
+C:\Users\asli.yilmaz\source\repos\AdoNetDemo\AdoNetDemo.Business\obj\Debug\net8.0\ref\AdoNetDemo.Business.dll

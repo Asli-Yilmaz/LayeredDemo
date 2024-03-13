@@ -1,0 +1,302 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\asli.yilmaz\\source\\repos\\AdoNetDemo\\AdoNetDemo\\AdoNetDemo.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\asli.yilmaz\\source\\repos\\AdoNetDemo\\AdoNetDemo.Business\\AdoNetDemo.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\asli.yilmaz\\source\\repos\\AdoNetDemo\\AdoNetDemo.Business\\AdoNetDemo.Business.csproj",
+        "projectName": "AdoNetDemo.Business",
+        "projectPath": "C:\\Users\\asli.yilmaz\\source\\repos\\AdoNetDemo\\AdoNetDemo.Business\\AdoNetDemo.Business.csproj",
+        "packagesPath": "C:\\Users\\asli.yilmaz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\asli.yilmaz\\source\\repos\\AdoNetDemo\\AdoNetDemo.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\asli.yilmaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\asli.yilmaz\\source\\repos\\AdoNetDemo\\AdoNetDemo.DataAccess\\AdoNetDemo.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\asli.yilmaz\\source\\repos\\AdoNetDemo\\AdoNetDemo.DataAccess\\AdoNetDemo.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\asli.yilmaz\\source\\repos\\AdoNetDemo\\AdoNetDemo.DataAccess\\AdoNetDemo.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\asli.yilmaz\\source\\repos\\AdoNetDemo\\AdoNetDemo.DataAccess\\AdoNetDemo.DataAccess.csproj",
+        "projectName": "AdoNetDemo.DataAccess",
+        "projectPath": "C:\\Users\\asli.yilmaz\\source\\repos\\AdoNetDemo\\AdoNetDemo.DataAccess\\AdoNetDemo.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\asli.yilmaz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\asli.yilmaz\\source\\repos\\AdoNetDemo\\AdoNetDemo.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\asli.yilmaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\asli.yilmaz\\source\\repos\\AdoNetDemo\\AdoNetDemo.Entities\\AdoNetDemo.Entities.csproj": {
+                "projectPath": "C:\\Users\\asli.yilmaz\\source\\repos\\AdoNetDemo\\AdoNetDemo.Entities\\AdoNetDemo.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\asli.yilmaz\\source\\repos\\AdoNetDemo\\AdoNetDemo.Entities\\AdoNetDemo.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\asli.yilmaz\\source\\repos\\AdoNetDemo\\AdoNetDemo.Entities\\AdoNetDemo.Entities.csproj",
+        "projectName": "AdoNetDemo.Entities",
+        "projectPath": "C:\\Users\\asli.yilmaz\\source\\repos\\AdoNetDemo\\AdoNetDemo.Entities\\AdoNetDemo.Entities.csproj",
+        "packagesPath": "C:\\Users\\asli.yilmaz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\asli.yilmaz\\source\\repos\\AdoNetDemo\\AdoNetDemo.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\asli.yilmaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\asli.yilmaz\\source\\repos\\AdoNetDemo\\AdoNetDemo\\AdoNetDemo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\asli.yilmaz\\source\\repos\\AdoNetDemo\\AdoNetDemo\\AdoNetDemo.csproj",
+        "projectName": "AdoNetDemo",
+        "projectPath": "C:\\Users\\asli.yilmaz\\source\\repos\\AdoNetDemo\\AdoNetDemo\\AdoNetDemo.csproj",
+        "packagesPath": "C:\\Users\\asli.yilmaz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\asli.yilmaz\\source\\repos\\AdoNetDemo\\AdoNetDemo\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\asli.yilmaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\asli.yilmaz\\source\\repos\\AdoNetDemo\\AdoNetDemo.Business\\AdoNetDemo.Business.csproj": {
+                "projectPath": "C:\\Users\\asli.yilmaz\\source\\repos\\AdoNetDemo\\AdoNetDemo.Business\\AdoNetDemo.Business.csproj"
+              },
+              "C:\\Users\\asli.yilmaz\\source\\repos\\AdoNetDemo\\AdoNetDemo.DataAccess\\AdoNetDemo.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\asli.yilmaz\\source\\repos\\AdoNetDemo\\AdoNetDemo.DataAccess\\AdoNetDemo.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

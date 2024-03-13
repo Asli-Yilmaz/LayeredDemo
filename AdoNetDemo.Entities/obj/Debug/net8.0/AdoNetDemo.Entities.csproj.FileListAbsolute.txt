@@ -1,0 +1,11 @@
+C:\Users\asli.yilmaz\source\repos\AdoNetDemo\AdoNetDemo.Entities\bin\Debug\net8.0\AdoNetDemo.Entities.deps.json
+C:\Users\asli.yilmaz\source\repos\AdoNetDemo\AdoNetDemo.Entities\bin\Debug\net8.0\AdoNetDemo.Entities.dll
+C:\Users\asli.yilmaz\source\repos\AdoNetDemo\AdoNetDemo.Entities\bin\Debug\net8.0\AdoNetDemo.Entities.pdb
+C:\Users\asli.yilmaz\source\repos\AdoNetDemo\AdoNetDemo.Entities\obj\Debug\net8.0\AdoNetDemo.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asli.yilmaz\source\repos\AdoNetDemo\AdoNetDemo.Entities\obj\Debug\net8.0\AdoNetDemo.Entities.AssemblyInfoInputs.cache
+C:\Users\asli.yilmaz\source\repos\AdoNetDemo\AdoNetDemo.Entities\obj\Debug\net8.0\AdoNetDemo.Entities.AssemblyInfo.cs
+C:\Users\asli.yilmaz\source\repos\AdoNetDemo\AdoNetDemo.Entities\obj\Debug\net8.0\AdoNetDemo.Entities.csproj.CoreCompileInputs.cache
+C:\Users\asli.yilmaz\source\repos\AdoNetDemo\AdoNetDemo.Entities\obj\Debug\net8.0\AdoNetDemo.Entities.dll
+C:\Users\asli.yilmaz\source\repos\AdoNetDemo\AdoNetDemo.Entities\obj\Debug\net8.0\refint\AdoNetDemo.Entities.dll
+C:\Users\asli.yilmaz\source\repos\AdoNetDemo\AdoNetDemo.Entities\obj\Debug\net8.0\AdoNetDemo.Entities.pdb
+C:\Users\asli.yilmaz\source\repos\AdoNetDemo\AdoNetDemo.Entities\obj\Debug\net8.0\ref\AdoNetDemo.Entities.dll

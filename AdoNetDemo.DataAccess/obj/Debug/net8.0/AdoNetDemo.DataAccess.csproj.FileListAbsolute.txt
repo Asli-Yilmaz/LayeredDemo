@@ -1,0 +1,15 @@
+C:\Users\asli.yilmaz\source\repos\AdoNetDemo\AdoNetDemo.DataAccess\bin\Debug\net8.0\AdoNetDemo.DataAccess.deps.json
+C:\Users\asli.yilmaz\source\repos\AdoNetDemo\AdoNetDemo.DataAccess\bin\Debug\net8.0\AdoNetDemo.DataAccess.dll
+C:\Users\asli.yilmaz\source\repos\AdoNetDemo\AdoNetDemo.DataAccess\bin\Debug\net8.0\AdoNetDemo.DataAccess.pdb
+C:\Users\asli.yilmaz\source\repos\AdoNetDemo\AdoNetDemo.DataAccess\bin\Debug\net8.0\AdoNetDemo.Entities.dll
+C:\Users\asli.yilmaz\source\repos\AdoNetDemo\AdoNetDemo.DataAccess\bin\Debug\net8.0\AdoNetDemo.Entities.pdb
+C:\Users\asli.yilmaz\source\repos\AdoNetDemo\AdoNetDemo.DataAccess\obj\Debug\net8.0\AdoNetDemo.DataAccess.csproj.AssemblyReference.cache
+C:\Users\asli.yilmaz\source\repos\AdoNetDemo\AdoNetDemo.DataAccess\obj\Debug\net8.0\AdoNetDemo.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asli.yilmaz\source\repos\AdoNetDemo\AdoNetDemo.DataAccess\obj\Debug\net8.0\AdoNetDemo.DataAccess.AssemblyInfoInputs.cache
+C:\Users\asli.yilmaz\source\repos\AdoNetDemo\AdoNetDemo.DataAccess\obj\Debug\net8.0\AdoNetDemo.DataAccess.AssemblyInfo.cs
+C:\Users\asli.yilmaz\source\repos\AdoNetDemo\AdoNetDemo.DataAccess\obj\Debug\net8.0\AdoNetDemo.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\asli.yilmaz\source\repos\AdoNetDemo\AdoNetDemo.DataAccess\obj\Debug\net8.0\AdoNetDe.838B1EFA.Up2Date
+C:\Users\asli.yilmaz\source\repos\AdoNetDemo\AdoNetDemo.DataAccess\obj\Debug\net8.0\AdoNetDemo.DataAccess.dll
+C:\Users\asli.yilmaz\source\repos\AdoNetDemo\AdoNetDemo.DataAccess\obj\Debug\net8.0\refint\AdoNetDemo.DataAccess.dll
+C:\Users\asli.yilmaz\source\repos\AdoNetDemo\AdoNetDemo.DataAccess\obj\Debug\net8.0\AdoNetDemo.DataAccess.pdb
+C:\Users\asli.yilmaz\source\repos\AdoNetDemo\AdoNetDemo.DataAccess\obj\Debug\net8.0\ref\AdoNetDemo.DataAccess.dll
