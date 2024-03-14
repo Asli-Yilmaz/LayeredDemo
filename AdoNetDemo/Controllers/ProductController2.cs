@@ -1,13 +1,10 @@
 ﻿using AdoNetDemo.Business.Concrete;
-using AdoNetDemo.DataAccess.Abstract;
-using AdoNetDemo.DataAccess.Concrete;
 using AdoNetDemo.Entities;
 using AdoNetDemo.Models;
 using Microsoft.AspNetCore.DataProtection.Repositories;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using System.Data;
-using System.Data.SqlClient;
+
 
 namespace AdoNetDemo.Controllers
 {
@@ -16,7 +13,7 @@ namespace AdoNetDemo.Controllers
     [ApiController]
     public class ProductController2 : ControllerBase
     {
-        private ProductManager _productManager = new ProductManager(new ProductRepository());
+        private ProductManager _productManager = new ProductManager();
         [HttpGet]
         public async Task<IEnumerable<Product>> GetProducts()
         {

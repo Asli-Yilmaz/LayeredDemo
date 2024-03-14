@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\asli.yilmaz\\source\\repos\\AdoNetDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{652F4346-3BA6-460A-8BC2-55DF4E0B3092}|AdoNetDemo\\AdoNetDemo.Api.csproj|c:\\users\\asli.yilmaz\\source\\repos\\adonetdemo\\adonetdemo\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{652F4346-3BA6-460A-8BC2-55DF4E0B3092}|AdoNetDemo\\AdoNetDemo.Api.csproj|solutionrelative:adonetdemo\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{93ADC218-17B3-4D0E-A87F-7FEEF970F044}|AdoNetDemo.DataAccess\\AdoNetDemo.DataAccess.csproj|c:\\users\\asli.yilmaz\\source\\repos\\adonetdemo\\adonetdemo.dataaccess\\concrete\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93ADC218-17B3-4D0E-A87F-7FEEF970F044}|AdoNetDemo.DataAccess\\AdoNetDemo.DataAccess.csproj|solutionrelative:adonetdemo.dataaccess\\concrete\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9FA747E8-30F8-4600-B1F2-03FB989FD334}|AdoNetDemo.Entities\\AdoNetDemo.Entities.csproj|c:\\users\\asli.yilmaz\\source\\repos\\adonetdemo\\adonetdemo.entities\\adonetdemo.entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9FA747E8-30F8-4600-B1F2-03FB989FD334}|AdoNetDemo.Entities\\AdoNetDemo.Entities.csproj|solutionrelative:adonetdemo.entities\\adonetdemo.entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F7529C09-5240-4BF7-8FC5-94DDDE73E43B}|AdoNetDemo.Business\\AdoNetDemo.Business.csproj|c:\\users\\asli.yilmaz\\source\\repos\\adonetdemo\\adonetdemo.business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7529C09-5240-4BF7-8FC5-94DDDE73E43B}|AdoNetDemo.Business\\AdoNetDemo.Business.csproj|solutionrelative:adonetdemo.business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652F4346-3BA6-460A-8BC2-55DF4E0B3092}|AdoNetDemo\\AdoNetDemo.Api.csproj|c:\\users\\asli.yilmaz\\source\\repos\\adonetdemo\\adonetdemo\\controllers\\productcontroller2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652F4346-3BA6-460A-8BC2-55DF4E0B3092}|AdoNetDemo\\AdoNetDemo.Api.csproj|solutionrelative:adonetdemo\\controllers\\productcontroller2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{93ADC218-17B3-4D0E-A87F-7FEEF970F044}|AdoNetDemo.DataAccess\\AdoNetDemo.DataAccess.csproj|c:\\users\\asli.yilmaz\\source\\repos\\adonetdemo\\adonetdemo.dataaccess\\abstract\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,18 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9FA747E8-30F8-4600-B1F2-03FB989FD334}|AdoNetDemo.Entities\\AdoNetDemo.Entities.csproj|c:\\users\\asli.yilmaz\\source\\repos\\adonetdemo\\adonetdemo.entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FA747E8-30F8-4600-B1F2-03FB989FD334}|AdoNetDemo.Entities\\AdoNetDemo.Entities.csproj|solutionrelative:adonetdemo.entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{652F4346-3BA6-460A-8BC2-55DF4E0B3092}|AdoNetDemo\\AdoNetDemo.Api.csproj|c:\\users\\asli.yilmaz\\source\\repos\\adonetdemo\\adonetdemo\\controllers\\productcontroller2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{652F4346-3BA6-460A-8BC2-55DF4E0B3092}|AdoNetDemo\\AdoNetDemo.Api.csproj|solutionrelative:adonetdemo\\controllers\\productcontroller2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{652F4346-3BA6-460A-8BC2-55DF4E0B3092}|AdoNetDemo\\AdoNetDemo.Api.csproj|c:\\users\\asli.yilmaz\\source\\repos\\adonetdemo\\adonetdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{652F4346-3BA6-460A-8BC2-55DF4E0B3092}|AdoNetDemo\\AdoNetDemo.Api.csproj|solutionrelative:adonetdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{652F4346-3BA6-460A-8BC2-55DF4E0B3092}|AdoNetDemo\\AdoNetDemo.Api.csproj|c:\\users\\asli.yilmaz\\source\\repos\\adonetdemo\\adonetdemo\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{652F4346-3BA6-460A-8BC2-55DF4E0B3092}|AdoNetDemo\\AdoNetDemo.Api.csproj|solutionrelative:adonetdemo\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,19 +34,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\asli.yilmaz\\source\\repos\\AdoNetDemo\\AdoNetDemo\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "AdoNetDemo\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\asli.yilmaz\\source\\repos\\AdoNetDemo\\AdoNetDemo\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "AdoNetDemo\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAawBsAAAA1AAAA",
+              "DocumentIndex": 1,
+              "Title": "AdoNetDemo.Entities",
+              "DocumentMoniker": "C:\\Users\\asli.yilmaz\\source\\repos\\AdoNetDemo\\AdoNetDemo.Entities\\AdoNetDemo.Entities.csproj",
+              "RelativeDocumentMoniker": "AdoNetDemo.Entities\\AdoNetDemo.Entities.csproj",
+              "ToolTip": "C:\\Users\\asli.yilmaz\\source\\repos\\AdoNetDemo\\AdoNetDemo.Entities\\AdoNetDemo.Entities.csproj",
+              "RelativeToolTip": "AdoNetDemo.Entities\\AdoNetDemo.Entities.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-14T10:43:07.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController2.cs",
+              "DocumentMoniker": "C:\\Users\\asli.yilmaz\\source\\repos\\AdoNetDemo\\AdoNetDemo\\Controllers\\ProductController2.cs",
+              "RelativeDocumentMoniker": "AdoNetDemo\\Controllers\\ProductController2.cs",
+              "ToolTip": "C:\\Users\\asli.yilmaz\\source\\repos\\AdoNetDemo\\AdoNetDemo\\Controllers\\ProductController2.cs",
+              "RelativeToolTip": "AdoNetDemo\\Controllers\\ProductController2.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T12:00:59.24Z",
+              "WhenOpened": "2024-03-14T10:31:10.945Z",
               "EditorCaption": ""
             },
             {
@@ -65,49 +70,40 @@
               "RelativeDocumentMoniker": "AdoNetDemo.Business\\Concrete\\ProductManager.cs",
               "ToolTip": "C:\\Users\\asli.yilmaz\\source\\repos\\AdoNetDemo\\AdoNetDemo.Business\\Concrete\\ProductManager.cs",
               "RelativeToolTip": "AdoNetDemo.Business\\Concrete\\ProductManager.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAYwCQAAAAjAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T10:47:47.295Z"
+              "WhenOpened": "2024-03-14T10:30:53.313Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductController2.cs",
-              "DocumentMoniker": "C:\\Users\\asli.yilmaz\\source\\repos\\AdoNetDemo\\AdoNetDemo\\Controllers\\ProductController2.cs",
-              "RelativeDocumentMoniker": "AdoNetDemo\\Controllers\\ProductController2.cs",
-              "ToolTip": "C:\\Users\\asli.yilmaz\\source\\repos\\AdoNetDemo\\AdoNetDemo\\Controllers\\ProductController2.cs",
-              "RelativeToolTip": "AdoNetDemo\\Controllers\\ProductController2.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAawCoAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T10:21:28.05Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\asli.yilmaz\\source\\repos\\AdoNetDemo\\AdoNetDemo.DataAccess\\Concrete\\ProductRepository.cs",
               "RelativeDocumentMoniker": "AdoNetDemo.DataAccess\\Concrete\\ProductRepository.cs",
               "ToolTip": "C:\\Users\\asli.yilmaz\\source\\repos\\AdoNetDemo\\AdoNetDemo.DataAccess\\Concrete\\ProductRepository.cs",
               "RelativeToolTip": "AdoNetDemo.DataAccess\\Concrete\\ProductRepository.cs",
-              "ViewState": "AQIAADcAAAAAAAAAAIA5wEIAAAAfAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T10:19:33.105Z"
+              "WhenOpened": "2024-03-14T10:30:39.255Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\asli.yilmaz\\source\\repos\\AdoNetDemo\\AdoNetDemo.DataAccess\\Abstract\\IRepository.cs",
               "RelativeDocumentMoniker": "AdoNetDemo.DataAccess\\Abstract\\IRepository.cs",
               "ToolTip": "C:\\Users\\asli.yilmaz\\source\\repos\\AdoNetDemo\\AdoNetDemo.DataAccess\\Abstract\\IRepository.cs",
               "RelativeToolTip": "AdoNetDemo.DataAccess\\Abstract\\IRepository.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T10:13:11.781Z"
+              "WhenOpened": "2024-03-14T10:30:36.037Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\asli.yilmaz\\source\\repos\\AdoNetDemo\\AdoNetDemo.Entities\\Product.cs",
               "RelativeDocumentMoniker": "AdoNetDemo.Entities\\Product.cs",
@@ -115,31 +111,8 @@
               "RelativeToolTip": "AdoNetDemo.Entities\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T10:11:27.322Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\asli.yilmaz\\source\\repos\\AdoNetDemo\\AdoNetDemo\\appsettings.json",
-              "RelativeDocumentMoniker": "AdoNetDemo\\appsettings.json",
-              "ToolTip": "C:\\Users\\asli.yilmaz\\source\\repos\\AdoNetDemo\\AdoNetDemo\\appsettings.json",
-              "RelativeToolTip": "AdoNetDemo\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-12T08:34:54.904Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductModel.cs",
-              "DocumentMoniker": "C:\\Users\\asli.yilmaz\\source\\repos\\AdoNetDemo\\AdoNetDemo\\Models\\ProductModel.cs",
-              "RelativeDocumentMoniker": "AdoNetDemo\\Models\\ProductModel.cs",
-              "ToolTip": "C:\\Users\\asli.yilmaz\\source\\repos\\AdoNetDemo\\AdoNetDemo\\Models\\ProductModel.cs",
-              "RelativeToolTip": "AdoNetDemo\\Models\\ProductModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T07:48:36.833Z"
+              "WhenOpened": "2024-03-13T10:11:27.322Z",
+              "EditorCaption": ""
             }
           ]
         }

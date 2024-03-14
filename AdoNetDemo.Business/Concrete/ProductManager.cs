@@ -1,4 +1,5 @@
 ﻿using AdoNetDemo.DataAccess.Abstract;
+using AdoNetDemo.DataAccess.Concrete;
 using AdoNetDemo.Entities;
 using System;
 using System.Collections.Generic;
@@ -10,12 +11,7 @@ namespace AdoNetDemo.Business.Concrete
 {
     public class ProductManager
     {
-        private IRepository<Product> _repository;
-        public ProductManager(IRepository<Product> repository)
-        {
-            _repository = repository;
-            
-        }
+        private IRepository<Product> _repository = new ProductRepository();
         public List<Product> GetAll()
         {
             return _repository.GetAll();
